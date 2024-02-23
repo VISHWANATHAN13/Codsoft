@@ -20,13 +20,11 @@ The Student Grade Calculation System is a simple yet powerful tool designed to s
 
 ### Prerequisites
 
-- Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+- Make sure you have installed java on your machine.
 - Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/student-grade-calculation-system.git
-```
-
+git clonehttps://github.com/VISHWANATHAN13/Codsoft/NewJframe.java
 
 
 ### Usage
